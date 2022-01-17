@@ -544,7 +544,13 @@ cursor:default;
 
     /* animacion */
 
+    .bienvenidos > h2 {
+        transition: all 1.7s;
+    }
 
+    .bienvenidos > h2:hover {
+        transform: scale(.5);
+    }
 
     /* fin de animacion */
     .trabajos-container {
@@ -577,7 +583,13 @@ cursor:default;
 
     /* animación */
 
-
+    .bienvenidos > h2 {
+        transition: all 1.7s;
+        }
+    
+        .bienvenidos > h2:hover {
+        transform: scale(1.4);
+        }
 
     /* fin de animacion */
 
@@ -638,6 +650,13 @@ cursor:default;
 
     /* Animacion */
 
+    .bienvenidos > h2 {
+        transition: all 1.7s;
+    }
+
+    .bienvenidos > h2:hover {
+        transform: scale(1.1);
+    }
 
     /* fin de animacion */
 
